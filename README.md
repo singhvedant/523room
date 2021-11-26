@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vedant
+- 👋 Hi, I’m <a href="https://github.com/singhvedant1701">@Vedant</a>
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning cloud computing and machine learning
 - 💞️ This account is in collaboration with my friend @jaysil 
