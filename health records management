@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T04:42:22.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="YtrRut59ZSAchLgTjU_X" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-29T04:45:51.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sA0kWU6bR_fhcrAaMzGm" version="21.1.1" type="github">
   <diagram name="Page-1" id="qeqqTCzTJxsOuOxZWaeM">
     <mxGraphModel dx="1050" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M76viTobOjevpJrJQtZ3-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M76viTobOjevpJrJQtZ3-3" target="M76viTobOjevpJrJQtZ3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M76viTobOjevpJrJQtZ3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M76viTobOjevpJrJQtZ3-3" target="M76viTobOjevpJrJQtZ3-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M76viTobOjevpJrJQtZ3-3" value="Patient" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -60,6 +63,18 @@
         </mxCell>
         <mxCell id="M76viTobOjevpJrJQtZ3-18" value="Get virtual Assistant Help" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="440" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M76viTobOjevpJrJQtZ3-21" value="Schedule Appointments" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M76viTobOjevpJrJQtZ3-24" value="Sync Up User&#39;s health data" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="510" width="107" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M76viTobOjevpJrJQtZ3-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="M76viTobOjevpJrJQtZ3-25" target="M76viTobOjevpJrJQtZ3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M76viTobOjevpJrJQtZ3-25" value="User Authorized Third party applications" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
